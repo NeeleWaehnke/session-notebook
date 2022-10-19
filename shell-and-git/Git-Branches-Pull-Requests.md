@@ -1,6 +1,6 @@
 # Git Branches & Pull Requests
 
-![Git-Branch](./branches.png)
+![Git-Branch](./assets/branches.png)
 
 ---
 
@@ -15,4 +15,4 @@ Pull Requests (PR) ermöglichen das mergen von feature branches zum Main Branch.
 
 ### Workflow für eine Pull Request
 
-![Git-Workflow](./git-basics-branching-workflow.png)
+![Git-Workflow](./assets/git-basics-branching-workflow.png)
