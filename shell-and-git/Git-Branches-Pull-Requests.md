@@ -16,3 +16,7 @@ Pull Requests (PR) ermöglichen das mergen von feature branches zum Main Branch.
 ### Workflow für eine Pull Request
 
 ![Git-Workflow](./assets/git-basics-branching-workflow.png)
+
+---
+
+![Git-Branches](./assets/git-branches-and-pull-requests.png)
