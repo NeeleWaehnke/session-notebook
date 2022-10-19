@@ -1,4 +1,4 @@
-# Git commands
+# Git + Shell commands
 
 ## Allgemeines
 
@@ -26,9 +26,10 @@
 
 ---
 
-## Git Befehle
+## Git Remote Befehle
 
 | Befehl | Beschreibung |
 | ------ | ------------ |
 
+|
 |
