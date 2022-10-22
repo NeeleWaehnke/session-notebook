@@ -16,17 +16,17 @@
 
 ## Befehle zu Dateien etc.
 
-| Befehl                          | Beschreibung                           |
-| ------------------------------- | -------------------------------------- |
-| mkdir                           | Verzeichnis erstellen                  |
-| touch                           | Datei erstellen                        |
-| cat                             | .md File angucken (Inhalt)             |
-| rm                              | Datei löschen                          |
-| rm -rf                          | force löschen (z.b ganzes Verzeichnis) |
-| unzip <name>                    | .zip Datei öffnen                      |
-| echo "text" > <filename.md>     | etw. in eine .md file schreiben        |
-| mv <filename> <newname>         | Datei umbenennen                       |
-| mv <filename> <Verzeichnisname> | Datei in Verzeichnis verschieben       |
+| Befehl                            | Beschreibung                           |
+| --------------------------------- | -------------------------------------- |
+| mkdir                             | Verzeichnis erstellen                  |
+| touch                             | Datei erstellen                        |
+| cat                               | .md File angucken (Inhalt)             |
+| rm                                | Datei löschen                          |
+| rm -rf                            | force löschen (z.b ganzes Verzeichnis) |
+| unzip <name>                      | .zip Datei öffnen                      |
+| echo "text" > <filename.md>       | etw. in eine .md file schreiben        |
+| mv <filename"> <newname">         | Datei umbenennen                       |
+| mv <filename"> <Verzeichnisname"> | Datei in Verzeichnis verschieben       |
 
 ---
 
